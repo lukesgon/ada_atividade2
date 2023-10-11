@@ -1,0 +1,59 @@
+body {
+    font-family: tahoma;
+    color: brown;
+    background-color: antiquewhite;
+}
+h1, h2 {
+    margin: 0 auto;
+    text-align: center;
+}
+
+.coluna-larga {
+    width: 640px;
+}
+
+.cor-padrao {
+    color: brown;
+}
+
+.familia {
+    list-style: none;
+}
+
+.mae {
+    color:blueviolet;
+}
+
+.pai {
+    color: orange;
+}
+
+.filho {
+    color: blue;
+}
+
+.filha {
+    color: red;
+}
+
+.align-top {
+    vertical-align: text-top;
+}
+
+.align-left {
+    text-align: left;
+    padding-left: 1.3em;
+}
+
+summary {
+    cursor: pointer;
+    font-weight: bold;
+}
+
+table {
+    margin: 10px auto;
+}
+
+td {
+    width: 8em;
+}
